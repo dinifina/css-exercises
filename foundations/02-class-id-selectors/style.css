@@ -1,0 +1,23 @@
+/*styles.css*/
+
+.cool-text,
+.cooler-text {
+    background-color: #d06575;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#first-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler-text {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
